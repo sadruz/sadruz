@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sadruz
+- 👋 Hi, I’m @sadruzzama
 - 👀 I’m interested in Web development and data Structure and Algorithms
 - 🌱 I’m currently learning web development and I'm also third year student of ETCE at jadavpur University
 - 💞️ I’m looking to collaborate on youtube 

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sadruz
-- 👀 I’m interested in Wevdevelopment and data Structure 
+- 👀 I’m interested in Web development and data Structure and Algorithms
 - 🌱 I’m currently learning web development and I'm also third year student of ETCE at jadavpur University
 - 💞️ I’m looking to collaborate on youtube 
 - 📫 How to reach me message me at maths.code.h@gmail.com

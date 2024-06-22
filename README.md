@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sadruzzama
 - 👀 I’m interested in Web development, problem solving, machine learning, finance and more
 - 🌱 I’m currently learning web development and I'm also third year student of ETCE at jadavpur University
-- 💞️ I’m looking to collaborate on youtube 
 - 📫 Reach me message me at maths.code.h@gmail.com
 
 <!---

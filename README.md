@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sadruzzama
-- 👀 I’m interested in Web development, problem solving, machine learning, finance and more
-- 🌱 I’m currently learning system design and I'm also 4th year student of ETCE at jadavpur University
-- 📫 Reach me message me at maths.code.h@gmail.com
+- 👋 Hi, I’m @sadruzzama and graduated from Jadavpur University in 2025
+- 👀 I’m a software developer with specialization in FullStack WebDevlopment and have strong problem solving, machine learning, finance and more
+- 🌱 I’m currently looking for Job where i can showcase my skills. 
+- 📫 Reach me message me at sadruz.job@gmail.com
 
 <!---
 sadruz/sadruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
